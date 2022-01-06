@@ -60,6 +60,11 @@
 			<groupId>org.openmrs.module</groupId>
 			<artifactId>mchapp-api</artifactId>
 		</dependency>
+		<dependency>
+			<groupId>org.openmrs.module</groupId>
+			<artifactId>legacyui-api</artifactId>
+		</dependency>
+
 
 
 				
