@@ -39,8 +39,8 @@
         <ehrconfigsVersion>1.0.10-SNAPSHOT</ehrconfigsVersion>
         <hospitalcorVersion>1.0.7-SNAPSHOT</hospitalcorVersion>
         <metadatadeployVersion>1.3</metadatadeployVersion>
-        <mchappVersion>1.0.1</mchappVersion>
-        <patientdashboardappVersion>1.0.0</patientdashboardappVersion>
+        <mchappVersion>1.0.1-SNAPSHOT</mchappVersion>
+        <patientdashboardappVersion>1.0.7-SNAPSHOT</patientdashboardappVersion>
         <legacyUiVersion>1.8.2</legacyUiVersion>
 
     </properties>
